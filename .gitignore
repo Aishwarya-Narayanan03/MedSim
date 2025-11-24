@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.env*
+.venv/
+venv/
+
+# Node
+node_modules/
+dist/
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Logs
+*.log
+
+# Terraform
+*.tfstate
+*.tfstate.backup
+.terraform/
+
+# Docker
+*.pid
+docker-compose.override.yml
+
+# Misc
+*.sqlite3
+*.db
+.idea/
+*.bak
+*.swp
+
+# Coverage
+coverage/
+*.cover
+*.coverage
+
+# Jupyter
+.ipynb_checkpoints/
